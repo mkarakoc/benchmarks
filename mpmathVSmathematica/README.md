@@ -23,3 +23,10 @@ Solve the polynomial (in **.dat** files) using both mpmath and Mathematica.
   ```
   639.426 ms
   ```  
+## Conclusion:
+
+tmp = 1min 10s = 70s = 70000 ms  
+tma = 639.426 ms  
+tmp/tma = 109.473  
+
+Mathematica seems almost 110x faster than mpmath.
