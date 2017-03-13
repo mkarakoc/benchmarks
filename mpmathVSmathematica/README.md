@@ -21,6 +21,5 @@ Solve the polynomial (in **.dat** files) using both mpmath and Mathematica.
   ```  
 2. Mathematica
   ```
-  CPU times: user 1min 9s, sys: 456 ms, total: 1min 10s
-  Wall time: 1min 10s
+  639.426 ms
   ```  
