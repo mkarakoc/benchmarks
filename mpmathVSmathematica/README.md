@@ -1,3 +1,6 @@
-A polynomial: $a_0 + a_1 x + a_2 x^2$
-Task i
+A polynomial: 
 ![](../images/polynomial_w_o101.png)
+
+Task: Solve the polynomial (in **.dat** files) using both mpmath and Mathematica.
+
+Results:
